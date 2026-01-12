@@ -50,3 +50,4 @@ Developing this Multithreaded Chat Application at **CODTECH IT Solutions** was a
 The principles I applied here—handling connections, managing shared data, and ensuring thread safety—are the same ones used by massive companies to build global platforms. This project has given me the confidence to take on even more complex networking challenges, like building secure file-transfer tools or even the backend for a multiplayer game. It was a meaningful step forward in my journey to becoming a professional software engineer.
 
 #OUTPUT
+<img width="1688" height="656" alt="Image" src="https://github.com/user-attachments/assets/d7b5aa41-4ce1-4a66-b87d-51a29a85fe91" />
